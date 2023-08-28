@@ -1,28 +1,28 @@
 [
     {
         "nome":"Solo Leveling",
-        "img":"",
+        "img":"assets/img/soloLeveling.webp",
         "inpId":"aInp",
-        "caps":["cap1.html","cap2.html","cap3.html"]
+        "caps":["cap.html","cap.html","cap.html"]
     },{
         "nome":"b",
         "img":"",
         "inpId":"bInp",
-        "caps":["cap1.html","cap2.html","cap3.html"]
+        "caps":["cap.html","cap.html","cap.html"]
     },{
         "nome":"c",
         "img":"",
         "inpId":"cInp",
-        "caps":["cap1.html","cap2.html","cap3.html"]
+        "caps":["cap.html","cap.html","cap.html"]
     },{
         "nome":"d",
         "img":"",
         "inpId":"dInp",
-        "caps":["cap1.html","cap2.html","cap3.html"]
+        "caps":["cap.html","cap.html","cap.html"]
     },{
         "nome":"e",
         "img":"",
         "inpId":"eInp",
-        "caps":["cap1.html","cap2.html","cap3.html"]
+        "caps":["cap.html","cap.html","cap.html"]
     }
 ]

@@ -13,14 +13,15 @@ async function carregarListaMangas() {
             mangaButton.className = "mangas";
             mangaButton.id = mangas[i].inpId;
             
-            const mangaImage = document.createElement("img");
-            mangaImage.src = mangas[i].img;
-            mangaButton.appendChild(mangaImage);
-            
             const mangaNome = document.createElement("div");
             mangaNome.className = "listaMangasNome";
             mangaNome.textContent = mangas[i].nome;
             mangaButton.appendChild(mangaNome);
+            
+            const mangaImage = document.createElement("img");
+            mangaImage.src = mangas[i].img;
+            mangaButton.appendChild(mangaImage);
+            
             
             const listaCaps = document.createElement("div");
             listaCaps.className = "listaCaps";

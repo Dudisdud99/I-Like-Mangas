@@ -6,3 +6,7 @@ body{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
+
+.listaMangasHome>button>img{
+    height: 10rem;
+}
